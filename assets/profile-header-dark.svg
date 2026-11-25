@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="148" viewBox="0 0 880 148" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Kwon Sungjae · AI Engineering</title>
+  <desc id="desc">Documents, context, and answers connected by a blue line.</desc>
+  <rect x=".5" y=".5" width="879" height="147" rx="20" fill="#0c0f16" stroke="#2a3344"/>
+  <g fill="#98b1ff" transform="translate(34 49) skewY(-12)">
+    <rect y="12" width="9" height="28" rx="2"/><rect x="14" y="4" width="9" height="42" rx="2"/><rect x="28" y="12" width="9" height="32" rx="2"/>
+  </g>
+  <g font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
+    <text x="92" y="63" fill="#f0f3fa" font-size="26" font-weight="700" letter-spacing="-.7">KWON SUNGJAE</text>
+    <text x="93" y="91" fill="#a9b3c5" font-size="12" font-weight="500" letter-spacing="2.2">AI ENGINEERING</text>
+    <path d="M491 74H753" stroke="#98b1ff" stroke-opacity=".5" stroke-width="1.5"/>
+    <path d="m543 70 4 4-4 4m133-8 4 4-4 4" stroke="#98b1ff" stroke-width="1.5"/>
+    <rect x="407" y="52" width="118" height="44" rx="10" fill="#141923" stroke="#2a3344"/>
+    <rect x="557" y="52" width="118" height="44" rx="10" fill="#1e2b4b" stroke="#98b1ff"/>
+    <rect x="707" y="52" width="138" height="44" rx="10" fill="#141923" stroke="#2a3344"/>
+    <g font-size="12" font-weight="600" text-anchor="middle" letter-spacing=".5">
+      <text x="466" y="79" fill="#a9b3c5">DOCUMENTS</text>
+      <text x="616" y="79" fill="#98b1ff">CONTEXT</text>
+      <text x="776" y="79" fill="#a9b3c5">ANSWERS</text>
+    </g>
+  </g>
+</svg>

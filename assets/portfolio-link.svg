@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="50" viewBox="0 0 240 50" fill="none" role="img" aria-labelledby="title">
+  <title id="title">View portfolio</title>
+  <rect width="240" height="50" rx="10" fill="#2854e8"/>
+  <text x="22" y="31" fill="#fff" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="14" font-weight="650" letter-spacing=".65">VIEW PORTFOLIO</text>
+  <path d="M202 31 214 19m-11 0h11v11" stroke="#fff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
