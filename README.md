@@ -12,7 +12,9 @@
 
 <a href="https://pschedule.github.io/"><img src="assets/portfolio-link.svg" alt="포트폴리오에서 프로젝트 살펴보기" width="240" height="50"></a>
 
-**[포트폴리오 바로가기 ↗](https://pschedule.github.io/)** &nbsp; · &nbsp; [이력서 PDF](https://pschedule.github.io/assets/kwon-sungjae-resume.pdf) &nbsp; · &nbsp; [이메일](mailto:kw8590@naver.com)
+**[포트폴리오 바로가기 ↗](https://pschedule.github.io/)**
+
+[이력서 PDF](https://pschedule.github.io/assets/kwon-sungjae-resume.pdf) &nbsp; · &nbsp; [이메일](mailto:kw8590@naver.com)
 
 한국외국어대학교 컴퓨터공학전공 · 2027년 2월 졸업 예정
 
